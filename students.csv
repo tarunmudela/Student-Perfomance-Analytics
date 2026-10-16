@@ -1,0 +1,21 @@
+student_id,name,department,python_marks,statistics_marks,database_marks,ai_marks,attendance_percent
+S001,Aarav Sharma,Computer Science,88,91,84,95,92
+S002,Diya Verma,Information Technology,76,82,79,88,89
+S003,Rohan Gupta,Computer Science,65,72,68,80,85
+S004,Ananya Singh,Data Science,93,96,91,97,96
+S005,Kabir Khan,Information Technology,54,61,58,75,78
+S006,Meera Joshi,Data Science,81,87,85,90,94
+S007,Ishaan Patel,Computer Science,42,48,51,65,70
+S008,Sara Ali,Information Technology,89,86,92,93,91
+S009,Vivaan Mishra,Data Science,71,69,74,82,87
+S010,Aditi Rao,Computer Science,97,94,98,99,98
+S011,Arjun Das,Information Technology,59,55,63,72,76
+S012,Ira Kapoor,Data Science,84,80,88,91,93
+S013,Reyansh Mehta,Computer Science,33,45,39,60,62
+S014,Myra Nair,Information Technology,78,75,81,86,90
+S015,Dev Malhotra,Data Science,68,73,70,78,83
+S016,Kiara Shah,Computer Science,91,89,94,96,97
+S017,Atharv Yadav,Information Technology,47,52,44,68,72
+S018,Navya Reddy,Data Science,86,92,89,94,95
+S019,Advik Jain,Computer Science,73,77,71,84,88
+S020,Saanvi Bose,Information Technology,62,66,64,79,81
